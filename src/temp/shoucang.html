@@ -1,0 +1,16 @@
+<div class="bar bar-subheader sj_qiandao">
+	<span>福利来袭，签到、任务赢大礼</span>
+	<span>签到领奖</span>
+</div>
+<div class="sc_content">
+	<dl ng-repeat="data in datalist track by $index"  class="sc_dl">
+		<dt>
+			<a href="#/index/chapter/{{data.id}}">
+				<img src="{{data.img}}"/>
+			</a>
+		</dt>
+		<dd>
+			<p class="name">{{data.desc}}</p>
+		</dd>
+	</dl>
+</div>

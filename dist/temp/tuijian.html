@@ -1,0 +1,81 @@
+<ion-view>
+	<div class="bar bar-header sc_header">
+ 		<ul>
+ 			<li><a href="#">推荐</a></li>
+ 			<li><a href="#">榜单</a></li>
+ 			<li><a href="#">分类</a></li>
+ 			<li><a href="#">小说</a></li>
+ 		</ul>
+ 		<img src="img/img6.png"/>
+	</div>
+	<ion-content>
+		
+		<ion-slide-box active-slide="myActiveSlide" does-continue="true" show-pager="false" slide-interval=2000 auto-play="true">
+		  <ion-slide>
+		    <div class="banner"><img src="img/banner1.png"/></div>
+		  </ion-slide>
+		  <ion-slide>
+		    <div class="banner"><img src="img/banner2.png"/></div>
+		  </ion-slide>
+		</ion-slide-box>
+		<ul class="sc_nav">
+			<li>
+				<img src="img/img1.png"/>
+				<span>今日更新</span>
+			</li>
+			<li>
+				<img src="img/img2.png"/>
+				<span>爆笑</span>
+			</li>
+			<li>
+				<img src="img/img3.png"/>
+				<span>VIP专区</span>
+			</li>
+			<li>
+				<img src="img/img4.png"/>
+				<span>福利</span>
+			</li>
+		</ul>
+		<div class="tuijian_box" ng-repeat="data in datalist track by $index">
+			<ion-refresher
+			    pulling-text="下拉刷新..."
+			    on-refresh="doRefresh()">
+			</ion-refresher>
+			<h2 >
+				<img src="{{data.logo}}"/>
+				<span>{{data.logoTitle}}</span>
+				<span class="more">更多</span>
+			</h2>
+			<div class="tuijian_tu">
+				<dl ng-repeat="prod in data.dataImg track by $index" ng-click="getDetail(data.dataImg)">
+					<dt>
+						<a href="#/index/chapter/{{prod.id}}">
+							<img src="{{prod.img}}"/>
+						</a>
+					</dt>
+					<dd>
+						<p class="name">{{prod.desc}}</p>
+					</dd>
+				</dl>
+				
+			</div>
+			
+		</div>
+	</ion-content>
+	<ion-footer-bar style="padding: 0 !important;">
+		<div class="tabs tabs-icon-top footer">
+		  <a class="tab-item" ui-sref="aaa.shoucang">
+		    <i class="icon iconfont icon-tushuguanlibrary12"></i>
+		    书架
+		  </a>
+		  <a class="tab-item f_shucheng" ui-sref="bbb">
+		    <i class="icon iconfont icon-faxian"></i>
+		    书城
+		  </a>
+		  <a class="tab-item" ui-sref="ccc">
+		    <i class="icon iconfont icon-wode"></i>
+		    我的
+		  </a>
+		</div>
+    </ion-footer-bar>
+</ion-view>

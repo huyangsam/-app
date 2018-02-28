@@ -1,0 +1,32 @@
+<ion-view>
+	<ion-content class="ml">
+		<div class="ml_top">
+			<span class="fanhui" ng-click="fanhui()">←_←</span>
+	 		<img src="{{datalist[0].chapterImg}}"/>
+		</div>
+		<div class="ml_name">
+			目录
+		</div>
+		<dl class="ml_list" ng-repeat="data in datalist track by $index">
+			<dt><img src="{{data.chapterImg}}"/></dt>
+			<dd>
+				{{data.chapter}}
+			</dd>
+		</dl>
+	</ion-content>
+	<ion-footer-bar style="padding: 0 !important;" class="ml_footer">
+		<div class="ml_f">
+			<div class="ml_left" ng-click="shoucang()">
+				<img src="img/logo8.png"/>
+				<span>收藏</span>
+			</div>
+			<div class="ml_middle">
+				<img src="img/logo9.png"/>
+				<span>下载</span>
+			</div>
+			<div class="ml_right" ng-click="startRead()">
+				开始阅读
+			</div>
+		</div>
+    </ion-footer-bar>
+</ion-view>

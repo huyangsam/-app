@@ -1,0 +1,31 @@
+<ion-view>
+	<div class="bar bar-header sj_header">
+ 		<ul>
+ 			<li ng-class="{active:m1}" ng-click="shoucang()"><a href="" >收藏</a></li>
+ 			<li ng-class="{active:m2}" ng-click="xiazai()"><a href="" >下载</a></li>
+ 			<li ng-class="{active:m3}" ng-click="lishi()"><a href="" >历史</a></li>
+ 		</ul>
+ 		<img src="img/img6.png"/>
+	</div>
+	<ion-content class="sj_content">
+		<div ui-view></div>
+			
+	</ion-content>
+	<ion-footer-bar style="padding: 0 !important;">
+		<div class="tabs tabs-icon-top footer">
+		  <a class="tab-item f_shujia" ui-sref="aaa.shoucang">
+		    <i class="icon iconfont icon-tushuguanlibrary12"></i>
+		    书架
+		  </a>
+		  <a class="tab-item" ui-sref="bbb">
+		    <i class="icon iconfont icon-faxian"></i>
+		    书城
+		  </a>
+		  <a class="tab-item" ui-sref="ccc">
+		    <i class="icon iconfont icon-wode"></i>
+		    我的
+		  </a>
+		</div>
+    </ion-footer-bar>
+</ion-view>
+

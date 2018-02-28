@@ -1,0 +1,52 @@
+[
+	{
+		"id":1,
+		"logo":"img/logo1.png",
+		"logoTitle":"本周推荐",
+		"dataImg":[{"id":101,"desc":"你曾经爱我","img":"https://i1s.kkmh.com/image/170716/c49ujkfdn.webp-w320.w.jpg",
+		"detail":[{"chapterImg":"https://i1s.kkmh.com/image/160805/ahrcd64w7.webp-w750.jpg","chapter":"你是我青春的独家记忆"},{"chapterImg":"https://i1s.kkmh.com/image/160805/29yr0evfj.webp-w750.jpg","chapter":"序章 相遇就足够幸运"},{"chapterImg":"https://i1s.kkmh.com/image/160805/ge5xt0c3z.webp-w750.jpg","chapter":"第1话 我忘了所有数学公式，只记得你曾经爱我"},{"chapterImg":"https://i1s.kkmh.com/image/160813/czf6f17iz.webp-w750.jpg","chapter":"第2话 你穿婚纱的样子，很可爱"},{"chapterImg":"https://i1s.kkmh.com/image/160820/ycoguipt0.webp-w750.jpg","chapter":"第3话 “喜欢”说多了就不珍贵了"},{"chapterImg":"https://i1s.kkmh.com/image/160828/pmvawyexq.webp-w750.jpg","chapter":"第4话 那个为你挺身而出的人"}]},
+		{"id":102,"desc":"捡到只小狐狸","img":"https://i1s.kkmh.com/image/161212/p7p48tawz.webp-w320.w.jpg","detail":[{"chapterImg":"https://i1s.kkmh.com/image/160207/ge2aky4uj.webp-w750.jpg","chapter":"第1＋2话 捡到一只很萌的狐狸？"},{"chapterImg":"https://i1s.kkmh.com/image/160215/dd97ol18j.webp-w750.jpg","chapter":"第3话 我来抚养他吧！"},{"chapterImg":"https://i1s.kkmh.com/image/160222/110i7iuaj.webp-w750.jpg","chapter":"第4话 受不了你脏兮兮的样子了！"},{"chapterImg":"https://i1s.kkmh.com/image/160307/5fjx63wxd.webp-w750.jpg","chapter":"第5话 小狐狸形象大改造！"},{"chapterImg":"https://i1s.kkmh.com/image/160313/4rvwcunpl.webp-w750.jpg","chapter":"第6话 吃货是最好对付的"},{"chapterImg":"https://i1s.kkmh.com/image/160320/192g73enf.webp-w750.jpg","chapter":"第7话 对不起让你一个人"}]},{"id":103,"desc":"怦然心动","img":"https://i1s.kkmh.com/image/161214/ic0pkr0jo.webp-w320.w.jpg","detail":[{"chapterImg":"https://i1s.kkmh.com/image/160329/nwxf9duk0.webp-w750.jpg","chapter":"第1话 同居男室友？！"},{"chapterImg":"https://i1s.kkmh.com/image/160404/vzziowub5.webp-w750.jpg","chapter":"第2话 异父异母的兄弟"},{"chapterImg":"https://i1s.kkmh.com/image/160413/6zmxpqylu.webp-w750.jpg","chapter":"第3话 你到底去哪儿了？！"},{"chapterImg":"https://i1s.kkmh.com/image/160419/et7bzkreu.webp-w750.jpg","chapter":"第4话 跟我回家好不好"},{"chapterImg":"https://i1s.kkmh.com/image/160425/2fgr9a0tx.webp-w750.jpg","chapter":"第5话 我为什么…这么心动"},{"chapterImg":"https://i1s.kkmh.com/image/160502/ko38yd2x8.webp-w750.jpg","chapter":"第6话 他好像并不难相处"}]},
+		{"id":104,"desc":"新娘的假面","img":"https://i1s.kkmh.com/image/170818/u9v48wcrg.webp-w320.w.jpg","detail":[{"chapterImg":"https://i1s.kkmh.com/image/170822/srzwnm926.webp-w750.jpg","chapter":"第1话 让她代替"},{"chapterImg":"https://i1s.kkmh.com/image/170822/xr15ks0ip.webp-w750.jpg","chapter":"第2话 出嫁"},{"chapterImg":"https://i1s.kkmh.com/image/170822/cyw29dspj.webp-w750.jpg","chapter":"第3话 我是假的"},{"chapterImg":"https://i1s.kkmh.com/image/170822/i4buk2w6c.webp-w750.jpg","chapter":"第4话 我会保护你"},{"chapterImg":"https://i1s.kkmh.com/image/170822/80pkqbr0o.webp-w750.jpg","chapter":"第5话 温柔的另一面"},{"chapterImg":"https://i1s.kkmh.com/image/170821/1rrla3z42.webp-w750.jpg","chapter":"第6话 我想要权力"}]},{"id":105,"desc":"魔女","img":"https://i1s.kkmh.com/image/170628/rzt4a23c5.webp-w320.w.jpg","detail":[{"chapterImg":"https://i1s.kkmh.com/image/170710/iq8bk12g9.webp-w750.jpg","chapter":"序章 爱上她的人都会死"},{"chapterImg":"https://i1s.kkmh.com/image/170711/uzvhrzl1t.webp-w750.jpg","chapter":"第0+1话 你相信魔女存在吗？"},{"chapterImg":"https://i1s.kkmh.com/image/170711/a5s46znoj.webp-w750.jpg","chapter":"第2话 一见钟情"},{"chapterImg":"https://i1s.kkmh.com/image/170713/gwmp5kzpr.webp-w750.jpg","chapter":"第3话 女神周围的惨案"},{"chapterImg":"https://i1s.kkmh.com/image/170713/0zcviwnh6.webp-w750.jpg","chapter":"第4话 不好的传闻"},{"chapterImg":"https://i1s.kkmh.com/image/170714/lnm659rnj.webp-w750.jpg","chapter":"第5话 最疼我的人去世了"}]},{"id":106,"desc":"照明商店","img":"https://i1s.kkmh.com/image/170123/sziw811d3.webp-w320.w.jpg","detail":[{"chapterImg":"https://i1s.kkmh.com/image/170120/30ih9mduh.webp-w750.jpg","chapter":"序章 每个人心里都有一盏灯"},{"chapterImg":"https://i1s.kkmh.com/image/170121/oohgosujd.webp-w750.jpg","chapter":"第1话 公交车站"},{"chapterImg":"https://i1s.kkmh.com/image/170120/9imevvs0h.webp-w750.jpg","chapter":"第2话 照明商店"},{"chapterImg":"https://i1s.kkmh.com/image/170120/qvd2cpm7i.webp-w750.jpg","chapter":"第3话 小巷"},{"chapterImg":"https://i1s.kkmh.com/image/170120/jrbllgbo9.webp-w750.jpg","chapter":"第4话 门"},{"chapterImg":"https://i1s.kkmh.com/image/170120/a0vfd0jvk.webp-w750.jpg","chapter":"第5话 旅客"}]}
+		]
+	},
+	{
+		"id":2,
+		"logo":"img/logo2.png",
+		"logoTitle":"VIP免费",
+		"dataImg":[{"id":201,"desc":"当校霸爱上学霸","img":"https://i1s.kkmh.com/image/161226/th1gzi9gn.webp-w320.w.jpg"},{"id":202,"desc":"照明商店","img":"https://i1s.kkmh.com/image/170123/sziw811d3.webp-w320.w.jpg"},{"id":203,"desc":"蝉女","img":"https://i1s.kkmh.com/image/170210/60w5c2ev9.webp-w320.w.jpg"},
+		{"id":204,"desc":"论叛逆少女的恋爱方式","img":"https://i1s.kkmh.com/image/170110/wnsosvdxv.webp-w320.w.jpg"},{"id":205,"desc":"女巨人也要谈恋爱","img":"https://i1s.kkmh.com/image/170718/7rmmtd392.webp-w320.w.jpg"},{"id":206,"desc":"不良诱惑","img":"https://i1s.kkmh.com/image/161220/q9zuq1sq8.webp-w320.w.jpg"}
+		]
+	},
+	{
+		"id":3,
+		"logo":"img/logo3.png",
+		"logoTitle":"少女恋爱",
+		"dataImg":[{"id":301,"desc":"零分偶像","img":"https://i1s.kkmh.com/image/171128/c3gtna9mk.webp-w320.w.jpg"},{"id":302,"desc":"快把我哥带走","img":"https://i1s.kkmh.com/image/161214/q2v4vj8pg.webp-w320.w.jpg"},{"id":303,"desc":"攻略王子计划","img":"https://i1s.kkmh.com/image/170621/t9e1l3g7c.webp-w750.jpg"},
+		{"id":304,"desc":"青空下","img":"https://i1s.kkmh.com/image/170113/0adefo4t6.webp-w750.jpg"},{"id":305,"desc":"朝花惜时","img":"https://i1s.kkmh.com/image/160222/03wkn35ez.webp-w750.jpg"},{"id":306,"desc":"青空之夏","img":"https://i1s.kkmh.com/image/161230/6y433qs3p.webp-w750.jpg"}
+		]
+	},
+	{
+		"id":4,
+		"logo":"img/logo4.png",
+		"logoTitle":"完结佳作",
+		"dataImg":[{"id":401,"desc":"万道成神","img":"http://mhfm9tel.cdndm5.com/40/39028/20171024161151_360x480_88.jpg"},{"id":402,"desc":"49%的灵魂","img":"http://mhfm8tel.cdndm5.com/40/39778/20171229184002_360x480_75.jpg"},{"id":403,"desc":"双候纪","img":"http://mhfm1tel.cdndm5.com/35/34780/20171110150059_360x480_83.jpg"},
+		{"id":404,"desc":"打架王","img":"http://mhfm6tel.cdndm5.com/40/39654/20171205112000_360x480_64.jpg"},{"id":405,"desc":"大炮与印章","img":"http://mhfm7tel.cdndm5.com/16/15321/20170112101424_360x480_70.jpg"},{"id":406,"desc":"缘之家Diesirae","img":"http://mhfm4tel.cdndm5.com/40/39984/20171227114911_450x600.jpg"}
+		]
+	},
+	{
+		"id":5,
+		"logo":"img/logo5.png",
+		"logoTitle":"少女爱情",
+		"dataImg":[{"id":501,"desc":"honey honey","img":"http://mhfm2tel.cdndm5.com/37/36910/20170610225455_360x480_109.jpg"},{"id":502,"desc":"恶魔的宠妻","img":"http://mhfm2tel.cdndm5.com/38/37686/20170725165458_450x600.jpg"},{"id":503,"desc":"不宜嫁娶","img":"http://mhfm5tel.cdndm5.com/38/37687/20170727090845_360x480_72.jpg"},
+		{"id":504,"desc":"小手滑的日常","img":"http://mhfm6tel.cdndm5.com/41/40320/20180115144534_450x600.jpg"},{"id":505,"desc":"我管漂亮你管帅","img":"http://mhfm7tel.cdndm5.com/38/37821/20171230140852_360x480_91.jpg"},{"id":506,"desc":"造反俱乐部","img":"http://mhfm1tel.cdndm5.com/35/34773/20170113145554_450x600.jpg"}
+		]
+	},
+	{
+		"id":6,
+		"logo":"img/logo6.png",
+		"logoTitle":"最新上架",
+		"dataImg":[{"id":601,"desc":"直到天涯","img":"http://mhfm1tel.cdndm5.com/41/40393/20180119191023_360x480_81.jpg"},{"id":602,"desc":"法器","img":"http://mhfm1tel.cdndm5.com/41/40392/20180119184137_450x600.jpg"},{"id":603,"desc":"魔女的自尊","img":"http://mhfm1tel.cdndm5.com/41/40391/20180119180945_360x480_67.jpg"},
+		{"id":604,"desc":"麻烦制造者","img":"http://mhfm6tel.cdndm5.com/41/40389/20180119154354_360x480_76.jpg"},{"id":605,"desc":"晚夏的水母","img":"http://mhfm2tel.cdndm5.com/41/40387/20180119150453_360x480_85.jpg"},{"id":606,"desc":"灶猫","img":"http://mhfm9tel.cdndm5.com/41/40386/20180119133444_360x480_45.jpg"}
+		]
+	}
+]
